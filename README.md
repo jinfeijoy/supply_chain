@@ -18,7 +18,7 @@
   * ability to persuade and communicate effectively
   * leading and developing others  
 
-### Week 2
+#### Week 2
 * Supply Chain Management:
   * objective: improve revenue and reduce cost
   * methodology: to produce and distribute the merchandize in the right quantities, to the right locations and at the right time, to minimize system wide cost and maximize customer service levels.
@@ -38,7 +38,7 @@
   * what will happen: predictive analytics
   * how can we make it happen : prescriptive analytics
 
-### Week 3: Demand Planning
+#### Week 3: Demand Planning
 * Sell (Demand) Analytics:
   * demand planning
   * product selection, pricing & promotion
