@@ -17,3 +17,25 @@
   * ability to manage global/virtual teams
   * ability to persuade and communicate effectively
   * leading and developing others  
+
+### Week 2
+* Supply Chain Management:
+  * objective: improve revenue and reduce cost
+  * methodology: to produce and distribute the merchandize in the right quantities, to the right locations and at the right time, to minimize system wide cost and maximize customer service levels.
+  * Dell outperformed Compaq by 1% in operating margin, and it is critical, which means even with the lower price, they can make the same money.
+  * Walmart vs Amazon, which one is future retailer? Amazon has higher operating efficiency by comparing the following matrics, the gap on total revenue is closing down, amazon already caught up walmart on operating income:
+    * inventory days
+    * cash conversion cycle
+    * labor productivity
+    * payable days / receiable days  
+* Suuply Chain Management Challenges
+  * Complex network of facilities & product (hard to optimize)
+  * Dynamic, seasonal and random (hard to predict)
+  * Self-interested partners with different objectives (hard to coordinate)
+
+
+
+
+
+
+
