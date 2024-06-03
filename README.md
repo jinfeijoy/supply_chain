@@ -61,6 +61,8 @@
   * strategic sourcing, supplier management
   * order management 
 
+### Course 2: Business Intelligence and Competitive Analysis
+#### Week 1: 
 
 
 
