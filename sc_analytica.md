@@ -62,7 +62,56 @@
   * order management 
 
 ### Course 2: Business Intelligence and Competitive Analysis
-#### Week 1: 
+#### Week 1: Overview
+* Competitive intelligence framework, benchmarking
+   * compare companies in the same business / industry
+   * identify strength & weakness, also see problems & opportunities
+   * Five forces - industry analysis
+      * Threat, rivalry and substitutes: existing & potential competitors - be prepared to defend yourself - competition positioning
+      * Bargaining power of suppliers and buyers: the power of suppliers and customers - promote your value in the supply chain - value chain analysis
+   * SWOT analysis - company analysis
+      * strength, weakness, oppotunities, threats(elements in the external environment that could endanger the integrity and profitability of the business)
+    * Three layers of analytics approach for competitive intelligence
+      * Industry analysis
+         * market potential and risk
+         * competition intensity, entry barriers
+         * value chain analysis 
+      * competition positioning
+         * where do I stand in the competitive landscape
+         * are there any KPI abnormality and alarms 
+      * enterprise diagnosis
+         * strengths & weaknesses
+         * levers & drivers
+         * revenue / assets structure, problem and causes 
+* industry classifications (supply chain based classification)
+   * sectors -> groups -> multiple industry 
+   * ![Screen Shot 2024-06-03 at 4 09 57 PM](https://github.com/jinfeijoy/supply_chain/assets/16402963/0caff2d7-d140-4156-8cf2-2fb2e50a0905)
+   * GICS (supply chain based) -> 11 Sectors -> 24 industry groups -> 68 industries -> 157 sub-industries
+   * [GCPS Navigator](scdata.ai/navigator) -> used to identify company industry 
+* world's major economies 
+   * total number of enterpries/ total operating income or loss/ total revenue / liabilities / total net income / total inventory / total revenue growth rate / total operating income growth rate / total net income growth rate / labor productivity
+   * leading economies: from 33,000+ companies and over 20 stock exchange market (size / growth) 
+   * leading contries by different industry
+   * industry trend 
+
+#### Week 2: industry analysis
+* market potential (industry trend) and risk
+* competition intensity, value chain analysis
+
+
+#### Week 3: Competition positioning
+* competitive landscape / enterprise ranking
+* KPI examination of enterprises
+  * ![Screen Shot 2024-06-03 at 4 15 36 PM](https://github.com/jinfeijoy/supply_chain/assets/16402963/8ad843dc-d705-444f-9f8a-6cc78768f48a)
+  * ![Screen Shot 2024-06-03 at 4 15 46 PM](https://github.com/jinfeijoy/supply_chain/assets/16402963/552b0615-ffeb-495b-b109-3bbb0a054762)
+  * profitability
+  * growth
+  * financial health
+  * efficiency  
+
+#### Week 4: Enterprise Diagnosis
+* strength and weakness, trends
+* value driver & breakdown analysis 
 
 
 
