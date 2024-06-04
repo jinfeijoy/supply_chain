@@ -96,7 +96,40 @@
 
 #### Week 2: industry analysis
 * market potential (industry trend) and risk
+   * Market potential
+      * competition / life cycle/ profit/ ROA/ Size/ Growth/ Trend 
+   * Company performance
+      * size / growth / profitability / efficiency / competition 
+   * industrial comparison
+      * profitability: total revenue / total operating income / median revenue / median operation margin / median net margin / break-even profitability
+      * growth: total revenue growth rate / total operating income growth rate / median revenue growth rate / median operating income growth rate
+      * efficiency: median sales general admin cost / total revenue/ median return on assets/ median return on invested capital
+      * efficiency: labor productivity = revenue / # of employees
+      * efficiency: market power = payable days / receivable days
+   * market risk:
+      * profit vs cost - operating income (plot with cost as x and income or loss as y)
+      * breakdown revenue (cost of revenue/ SG&A expense/ tax / net income / other cost)
+   * Instructions:
+      * Questions addressed: The starting point of competitive intelligence is often to understand the market potential, trend, risk, and the concentration / competition intensity. One may ask questions such as,
+          * What is the size of the market?
+          * Does it have a significant growth and / or profit potential?
+          * Which stage of the life-cycle (sun-rise, stable or saturated, sun-set) is it on?
+          * What is the risk of a significant loss?
+          * How intensive is the competition?
+      * Analysis instructions:In general, you need to specify a few parameters for the analysis, such as, analysis module (e.g., profitability, growth, financial health, efficiency, etc.), level of industry classification (level 4 refers to the finest level) and industry, country or state, and fiscal year.
+      * Interperate results:
+          * **The profit vs. growth trade-off**: It is ideal for an industry to be both high growth and high profit, but it rarely happens. We may find an industry either high growth but low profit, or low growth but high profit, which one is preferred? In my opinion, growth is more important than profitability. This is true because often high growth but low profit represents a sun-rise industry, but low growth and high profit signals a relatively saturated market.
+          * **Large market, high growth but low chance to break even**: The US health care sector seems to be in a contradictory situation as it has one of the largest total market sizes, highest growth (both revenue and profits), but in the same time, the lowest (20%) chance of breaking even! What happened is that many small companies are formed to research, develop and commercialize new drugs, which is highly risky but if successful, extremely profitable. US IT sector faces a similar situation with intensive innovations, higher risk than most other countries, but a large competitive market with many small companies.
+          * **Transportation industry structure vs. trade structure**: The US economy is more than balanced between international and domestic trade than China, not only because trucking is high in the US but low in China, and marine is high in china but low in the US, but also because of the shipping rates. Indeed, airfreight shipping rates are typically 9x that of trucking, and the shipping rates of trucking are typically 2x that of marine.
+          * **Larger market and smaller companies vs. smaller market but larger companies**: If you compare US health care and US materials sectors, you will find an interesting phenomenon: the health care sector has the second largest total market size (total revenue of all health care companies) but the smallest median company revenue. On the contrary, the materials sector has one of the smallest total market size but the largest median company revenue. The insight behind this observation is that health care is competitive market where small companies can survive and grow but materials is highly monopolized where smaller companies do not exist.
+            
 * competition intensity, value chain analysis
+    * objective:
+       * the most valuable element of the supply chain
+       * stay focused or diversify
+       * who has the market power
+    * check metrics: profitability / growth / efficiency
+
 
 
 #### Week 3: Competition positioning
