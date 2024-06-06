@@ -133,18 +133,82 @@
 
 
 #### Week 3: Competition positioning
-* competitive landscape / enterprise ranking
+* competitive landscape 
+   * Where do I stand in the industry (competition positioning)
+      *  Revenue vs cost (y as revenue, x as cost): can be used primarily to identify companies' positions and leagues by sizes (total revenue and cost)
+      *  operating income or loss vs total cost: primarily identifies their positions in profitability and shows which companies can make more money with less cost
+      *  operating income or loss vs total assets: positions the companies on the asset utilization map. 
+      *  
+   * which companies are my league (cluster)
+   * how far am I away from the profit frontier
+      * operating margin vs revenue
+      * return on assets vs liability asset ratio
+   * Return vs. risk:
+      * Unlike the usual interpretation of return vs. risk in financial investment, return vs. risk in competitive intelligence puts all companies of an industry on a map of two important KPIs: return on assets and liability asset ratio. Return on assets does not necessarily increase as the liability asset ratio increases. In fact, for capital equipment / plants intensive industries, such as airlines, the opposite trend may be true
+* enterprise ranking
+   *  size, profit, ROA
+   *  larger size but smaller profit / smaller size but larger profit
 * KPI examination of enterprises
   * ![Screen Shot 2024-06-03 at 4 15 36 PM](https://github.com/jinfeijoy/supply_chain/assets/16402963/8ad843dc-d705-444f-9f8a-6cc78768f48a)
   * ![Screen Shot 2024-06-03 at 4 15 46 PM](https://github.com/jinfeijoy/supply_chain/assets/16402963/552b0615-ffeb-495b-b109-3bbb0a054762)
   * profitability
   * growth
   * financial health
-  * efficiency  
+  * efficiency
+  * <img width="586" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/c817bcda-a536-4b60-a71c-b22bf09cd5bf">
+
 
 #### Week 4: Enterprise Diagnosis
 * strength and weakness, trends
-* value driver & breakdown analysis 
+   * strength and weakness
+      * size (total revenue / net income /  profit before tax / operating income or loss / gross profit)
+      * profitability (gross margin / return on assets / net margin / operating margin)
+      * return on investment ( return on equity / assets / invested capital)
+   *  trend
+      * size (total revenue / operating income or loss)
+      * financial health (current ratio / liability asset ratio / long term debt ratio)  
+* value driver
+   * drivers (industry dependent)
+      * what factor drive a company's performance in this industry
+         *  equipment and asset-intensive industries: liability -> margins / ROA (negative correlation)
+         *  retailing companies: (pricing) gross margin -> revenue growth (negative correlation)
+         *  inventory-intensive industries: inventory turn over -> asset turn over / margins (negative correlation)
+         *  gross margin -> operating /net margin, but if we find a reverse case, then we might hit a home run 
+
+* breakdown analysis: breakdown the revenue, cost and assets to analyze and compare their components, to diagnose root cause for problems
+   * <img width="586" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/2be7a9c9-4ba4-42c8-9914-37823340931c">
+
+   * revenue / cost structure
+      * cost of revenue or cost of goods sold
+      * sales general and administrative expenses
+      * income tax
+      * net income
+      * other costs including interest paid 
+   * asset structure
+      * cash and cash equivalents
+      * short term investments
+      * net receivables
+      * inventory
+      * long term investments
+      * property, plants and equipment
+      * intangible assets
+      * goodwill
+      * other assets 
+   * how are the company's breakdowns different from the industry averages, and what are the implications?
+      * <img width="672" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/6dd93a25-9f07-4c3d-bad5-4b0416a2e765">
+      * <img width="650" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/a1254351-104e-4d3b-9228-a887e66deff4">
+      * <img width="674" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/830203df-655d-434b-83fb-cb6e0d874cfd">
+   * how do the company's or the industry's breakdowns change over time, and what are the implications
+      * <img width="891" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/678888d0-9f2f-4c58-aa32-d45e1d66866d">
+   * The worst sort of business is one that grows rapidly, requires significant capital to engender the growth, and then earns little or little money, Warren said. Think airlines -- Warren Buffet
+ 
+### Course 3: Demand Analytics
+
+### Course 4: Inventory Analytics
+
+### Course 5: Supply Chain Analytics
+
+### Course 6: Sourcing Analytics
 
 
 
