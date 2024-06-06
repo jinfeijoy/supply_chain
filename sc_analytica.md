@@ -203,6 +203,42 @@
    * The worst sort of business is one that grows rapidly, requires significant capital to engender the growth, and then earns little or little money, Warren said. Think airlines -- Warren Buffet
  
 ### Course 3: Demand Analytics
+#### Week1
+* Demand planning and forecasting:
+  * demand is random & highly seasonal
+  * accurate demand forecast is critical to success - to avoid inventory shortage and customer backorders / reducing over time production, excessive inventories, and expedited shipping costs.
+  * objective
+     * forecast 2013 full year demand - factory can increase production during the summer to meet the demand in Q4
+     * accurate forecast for 3-month forward - sourcing, production, shipping take time
+     * minimize backorders, over-time production and over-stock 
+* Overview
+   * pain point:
+      * at new product launch, demand can be hard to predict
+      * yet accurate forecast is needed for sourcing, production, distribution and advertising planning
+   *  demand analytics
+      * accurately predict the demand for new products
+      * assess the impact of various factors on the demand (time/ seasonality / price / other environmental factors)
+   * [Four Pillars of Demand Planning Excellence](https://www.academia.edu/35321947/Four_Pillars_of_Demand_Planning_Excellence)
+   * process in practice
+      * <img width="886" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/79fa0dac-8b2f-4bd7-8352-1c214af7f98c">
+      * <img width="924" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/a2cfacba-1f36-4fcf-b4d9-4af73a0810ab">
+      * <img width="914" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/ecf01b8a-b1d6-473f-af41-f141da0e19ea">
+         * Each year, they started with an annual forecast. 
+         * With each month passing by, they update the forecast based on the latest events and data. 
+         * Using the updated forecast, they then created monthly production plan for the finished goods, which is broken down by its material requirement planning system into parts procurement plan and weekly assembly schedule. 
+         * An effective demand planning and accurate forecasting can improve the company's financial performance significantly.
+            * less inventory / better order fulfillment / shorter cash cycle time
+            * better profit margin / better EPS (Earning Per Share) / higher ROA / less shortage of peers
+
+
+
+
+#### Week2 ( data visualization/ predict trend)
+
+#### Week3 (model validation and improvement, predicting the impact of price and other environmental factors)
+
+#### Week4 (modeling categorical variables, predicting seasonality, create and test forecast)
+
 
 ### Course 4: Inventory Analytics
 
