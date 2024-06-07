@@ -222,7 +222,8 @@
    * process in practice
       * <img width="886" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/79fa0dac-8b2f-4bd7-8352-1c214af7f98c">
       * <img width="924" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/a2cfacba-1f36-4fcf-b4d9-4af73a0810ab">
-      * <img width="914" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/ecf01b8a-b1d6-473f-af41-f141da0e19ea">
+      * from forecast to operation 
+          * <img width="914" alt="image" src="https://github.com/jinfeijoy/supply_chain/assets/16402963/ecf01b8a-b1d6-473f-af41-f141da0e19ea">
           * Each year, they started with an annual forecast. 
           * With each month passing by, they update the forecast based on the latest events and data. 
           * Using the updated forecast, they then created monthly production plan for the finished goods, which is broken down by its material requirement planning system into parts procurement plan and weekly assembly schedule. 
