@@ -231,14 +231,23 @@
               * less inventory / better order fulfillment / shorter cash cycle time
               * better profit margin / better EPS (Earning Per Share) / higher ROA / less shortage of peers
 
-
-
-
 #### Week2 ( data visualization/ predict trend)
+* linear regression
 
 #### Week3 (model validation and improvement, predicting the impact of price and other environmental factors)
-
+* residual
+   * purely random noise
+      *  linearity - random distributed
+         ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/0609f7a0-9204-4e05-9750-c892b58e3988)
+      *  independence - residual independent
+         ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/ccdcd83d-14cc-4e24-b96a-c2d80e8c1977)
+      *  normality - normally distributed
+         ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/d83d39c2-5eeb-4458-bace-6198590675ba)
+      *  equal variance - residual have constand variance
+         ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/34ef6468-a52c-41ee-b9d5-926f57108749)
+   * errors in the model 
 #### Week4 (modeling categorical variables, predicting seasonality, create and test forecast)
+* mean absolute deviation ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/3d9b5633-b095-4688-aba5-8a0e6381e098)
 
 
 ### Course 4: Inventory Analytics
