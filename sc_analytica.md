@@ -251,6 +251,114 @@
 
 
 ### Course 4: Inventory Analytics
+#### Week1: how much inventory do we carry
+* driving forces behind retailling industry
+   * challenge: do not know what customers want when they enter your online or offline stores / have to provide the right product at the right price
+   * Components: price / product variety / delivery / cash cycle
+* inventory management
+   * SP500 retailing companies typically have 25-44% of their total assets in inventory
+   * inventory management -> sales and operations planning (S&OP)
+      * product variety and availability
+      * excessive inventory   
+* inventory problems
+   * for which industries is inventory important
+   * how many inventory drive a company's financial performance
+   * how do I know that I have an inventory problem
+   * how to classify inventory and manage them accordingly 
+* Value, trend, breadkwon and economic indications
+   * inventory efficiency improve before 2006, but was disrupted by the financial crisis. And afterwards, inventory efficiency was dropping.
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/c7640dac-7390-465a-96d1-f8662de00e38)
+   * inventory in supply chains:
+      * retail (35%)
+      * manufacturing (39%)
+         *  materials and supplies (34%)
+         *  half finished products - work-in-progress (31%)
+         *  finished goods (35%)
+      * wholesale (26%)
+   * inventory change over time
+      * First, China's inventory changes follow the pattern of the US. But are slightly lagged behind and much more dramatic than the US in recent years. Part of the reason is that China was supplying US.
+      * And second, the times of major economic recessions coincides well with the negative changes of inventory. In fact, a significant and negative change of inventory is a strong indicator of economic recession.
+      * And thirdly, the changes swing bigger and bigger as time goes by with an almost exponential growth.
+      * And finally, Germany has a different pattern in inventory changes from the US. A significant and consistent reduction of inventory in recent years indicating a very different industrial practice on inventory management 
+   * which countries is inventory important
+      * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/2e24bd44-969d-4e9b-b95d-c382e1fa5550)
+
+#### Week2: in which industries may inventory be important
+* assessing industries by inventory over total assets
+   * US
+      * major industry sectors: ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/38f97dc8-feb8-4366-9f25-b394b8d18a87)
+      * finer industry classification: ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/cf71ae27-dfaa-474a-ad95-fcd39499ba1b)
+   * China
+      * major industry sectors: ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/fa64b9eb-8e87-441a-aed5-5d29f65b5ac8)
+      * finer industry classification:![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/87361fd5-c1c3-4f49-a9b4-c7977707aaf8)
+* Assess the importance by inventory days (measure inventory relative to demand) (country dependent)
+   * inventory turns = annual COGS / inventory investment: how many times inventory is sold and replaced
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/37d371eb-65c1-495a-94e2-6c3c7eba43a5)
+   * inventory days (DOS) = # of business days in a year / inventory turns : average days the item is held in inventory
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/a059f644-ff0e-452f-a693-dc0a7b5dc040)
+   * US: healthcare consistently has the highest inventory days/ followed by IT&comsumer staples / energy has the lowest
+   * China: real estate consistently has the highest / followed by health care / telecom has the lowest
+* [software](https://www.coursera.org/learn/inventoryanalytics/supplement/N8r4D/software-tools)
+  
+#### Week3: how may inventory drive a firm's financial performance? how do I know that I have an inventory problem
+* why hold inventory: to reduce excessive inventory and only keep active inventory
+   * cycle stock: to take advantage of the scale economy: fixed ordering cost & switch over times -> **how much to order**
+   * safety stock: to protect against uncertainty: demand surge, suppliers may stock out -> **when to order**
+   * forward-buy stock: to take advantage of price discount
+   * pipeline stock: to ship product over a long distnace - inventory in transit
+   * prebuilt stock: to make up for the limited production capacity - seasonal demand
+* why not hold inventory
+   * additional space and handling / opportunity cost of capital / spoilage obsolescence / hide problems in manufacturing procsese causing quality problems
+   * holding cost breakdown
+      * inventory holding cost
+         * opportunity cost of alternative investment: 8%
+         * cost of storage: 6%
+         * taxes and insurance: 2%
+         * breakage, spoilage & obsolescence: 1%
+* How may inventory drive financial performance
+   * as inventory turnover increase, the gross margin may decrease for US retailing
+   * as inventory turnover increase, operating cost over revenue may decrease for US retailing
+   * as inventory turnover increase, the asset turnover may increase for US retailing
+* how do I know if I have an inventory problem
+   * ranking inventory days, then compare the following matrics:
+      *  total revenue / groww profit / net income / operating income or loss / profit b efore tax
+      *  asset turnover days ; inventory days ; cash conversion cycle ; sales general admin cost / total revenue; receivable days / payable days
+   * trend analysis: inventory days / cash conversion cycle /labor productivity / payable days (receivable days) / total revenue growth rate / operating income growth rate / net income growth rate
+   * revenue breakdown analysis: cost of revenue or COGS / SG&A Expenses / research development / income tax / net income / other cost
+   * asset breakdown: cash and cash equivalents / short term investment / net receivables / inventory / long term investment / property plant and equipment / intangible assets / goodwill / others
+
+#### Week4: how to classify and manage inventory 
+* ABC analysis: 3 categories of inventory items of different importance and strategies - A,B,C depending on their percentages of spend / consumption
+   *  ABC analysis:
+      *  A: 10-20% of items : 60-80% of cost
+      *  B: 20-30% of itmes : 20-30% of cost
+      *  C: 50-70% of items: < 20% of cost
+      *  ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/8c7c9b2a-f6d0-4839-8438-912ca9630403)
+   *  Steps in ABC analysis
+      *  First, determine the usage, annually, monthly, or weekly, and so on in units of each item.
+      *  Second, multiply the usage by the unit cost to get the spend or consumption for each item.
+      *  Third, rank the spend or consumption from high to low.
+      *  Fourth, calculate the cumulative spend in dollar value and in percentage.
+      *  Finally, classify the items into A, B, C classes or types, and draw the Pareto chart.
+* Manage inventory by class or type
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/2050d6c5-0517-4eca-add9-b4b0e40d1488)
+   * A: you frequently used; accounted for the most of your cost / spend ; most important -> close monitoring and control 
+      * develop a relationship with the supplier
+      * adjusting demand forecasts and inventory policies frequently  
+   * B: you occasionally used; accounted for a small but not negligible part of your cost / spend ; less important -> less attention and control
+      * adjust demand forecast and inventory policy less frequently
+      * order them less frequently, e.g. monthly
+   * C: you rarely used ; enormous in variety but each is negligible in cost (however, the total may not be); may be important but not worthy of carrying inventory -> delegate to suppliers or 3rd party
+      *  order as needed
+* inventory management in practice
+   * ways to manage inventory
+      * quantitative approaches: better models and software for inventory management (16.2%)
+      * reduced lead time (15%)
+      * improved forecasting (10.7%)
+      * more attention to inventory management, e.g. tight management of usage rates, lead times and safety stock (6.6%)
+      * reduction in SKU (5.1%)
+      * others, e.g. shift more inventory, or inventory ownership, to trading partners (suppliers) 
+   * 
 
 ### Course 5: Supply Chain Analytics
 
