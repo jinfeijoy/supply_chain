@@ -361,7 +361,56 @@
    * 
 
 ### Course 5: Supply Chain Analytics
+![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/a49fc057-7a9c-49bf-bb2c-a45e85ec1764)
+#### Week1: competitve analysis and benchmarking
+* understand the competitive landscape: (as an example as below)
+   * price vs service
+   * value-added product innovation
+   * geographic coverage
+   * network reliability, speed and quality
+   * customer service
+* discover strength and weakness relative to competitors
 
+#### Week2: driving forces in supply chain planning, intuitions on push/pull
+* what's trade off between shipping and inventory, implact on planning
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/1798dd21-3862-44f2-b1f8-6555b88962dd)
+   * classical model: works well for low value, long shelf-life & high volume items
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/41e9423f-ef1d-453e-a9e4-f1159d0e6a66)
+   * continuous replenishment: item with a high inventory cost, such as fresh item in grocery store, still meet all demand in stores but use more frequent shipping, increasing shipping cost to save on inventory
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/a9c9bd49-501d-4953-a498-2746361716ad)
+   * direct shipping: customer demand is met by DCs via express shipping, almost 0 inventory but high shipping cost, high value & slow moving items
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/11826525-7f1a-4883-9f91-2961084c2790)
+   * warehouse order fullfillment: picking -> packing -> shipping
+   * planning is driven by: shipping / inventory/ warehouse order fulfillment / speed to market in new product introduction / store operations and customer experience
+
+* how push/pull strategies may affect various parts of the supply chain, and how the effectiveness of these strategies maybe product dependent
+   * push strategy
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/d9956202-098d-4fad-b3de-e6a093c1220f)
+   * pull strategy
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/9bd3e9f2-c2c8-452e-ac94-c44d60ccc07f)
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/d050ffe1-0e84-4b74-9ee4-dc3ef8c90a9f)
+
+
+#### Week3: data collection, cost estimation and sc analytics
+* data collection
+   * inventory holding cost: ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/e06517f7-ac85-4cbd-9f47-eb13b9069177)
+   * shipping cost:
+      * Pull: unit shipping / express, overnight
+      * push: weekly batch shipping / standard, 0.5-2 days 
+   * picking/packing cost
+      * push: weekly picking and packing = cost of N identical products in 1 order = 1st pick/pack cost + subsequent pick/pack cost * (N-1)
+      * pull: unit picking and packing = Cost of N identical product = 1st pick/pack cost * N
+   * data of sales volume and inventory level by product
+   * calculate store inventory, shipping and warehousing costs under push/pull by product
+* analytics
+   * net impact of push and pull by product
+   * confirm / expand the intuiation
+     
+#### Week4: customer service, implementation
+* store operation & customer experience / satisfaction
+* implementation & epilogue
+   * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/cd1a8195-384b-44f3-8732-100bb1c76f8a)
+  
 ### Course 6: Sourcing Analytics
 
 
