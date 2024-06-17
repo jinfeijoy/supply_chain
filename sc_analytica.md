@@ -411,7 +411,91 @@
 * implementation & epilogue
    * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/cd1a8195-384b-44f3-8732-100bb1c76f8a)
   
-### Course 6: Sourcing Analytics
+### Course 6: Sourcing (procurement) Analytics
+* market intelligence: identify and select new suppliers
+* bargain power analysis: support better negotiation and bargaining
+* supplier analysis: assess individual suppliers' capability, pricing, financial robustness and efficiency
+* ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/03972cd5-8af0-4a96-a837-4cc6ed14ddbe)
+
+* sourcing metrics
+   * business continuity & risk: (e.g. russia-ukraine conflict in 2022: russian oil / pandemic)
+   * low cost, high quality
+   * flexibility &  responsiveness 
+   * sources of innovation 
+* sourcing analytics framework
+   * sourcing intelligence (analysis of the market, bargain power, and suppliers)
+      * dentify and select the right suppliers
+      * support better negotiation and bargaining with the suppliers
+      * in the process of new products and services procurement and new supplier development. 
+   * supplier performance management (deteriorating supplier performance? compliance? price variations?)
+      * business continuity
+      * contract compliance issue
+      * spend trend
+      * supplier performance
+   * buying process & buyer management
+   * spend analysis & strategic sourcing
+      * what did i spend on
+      * with whom am I spending it
+      * am i getting the value for that spend?  
+
+#### Week1: buying process & buyer management (naive vs. Suphisticated buyers)
+* buying process: ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/ff8ad1fc-d1eb-407a-8034-b7c5636efb83)
+   * need/problem recognition
+   * need/problem description
+   * information search
+   * supplier evaluation and selection
+   * post purchase evaluation 
+
+#### Week2: setting supplier criteria, market intelligence
+* setting supplier criteria
+   * know yourself: needs, goals, criteria
+   * know suppliers: market intelligence / bargain power analysis / supplier analysis 
+   * march criteria with firm's strategic objective:
+      * objectives: define sourcing goals and criteria
+      * methodologies
+         * enterprise ranking
+         * industry trend
+         * competition positioning
+         * strategic objectives / priorities
+            * critical: continuity, capability, cost
+            * leverage: cost, quality
+            * bottleneck: capability, continuity 
+      *  ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/42dd6f2e-48d1-4ca7-89c8-7fef2b65af72)
+* market intelligence
+   * objective: identify potential suppliers
+   * methodology
+      * business geo-information
+      * concentration & competition intensity - competitive vs monopolized
+      * market trend and stability  
+
+#### Week3: bargain power analysis, supplier analysis
+* bargain power analysis
+   * objective: what is my supplier's leverage and who has the bargain power
+   *  methodology:
+      * quantify the leverage, either buying or selling
+         * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/9d6ac7db-51fe-437d-a777-b71c198f90de)
+      * bargain power index (bpi)
+         * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/81cf8ea9-b233-47f0-bcec-e61cd0cc2936)
+         * how to improve bargain power
+            *  buyer: increase volume, consolidation
+            *  supplier: technology, innovation, patent 
+      * payable days / receivable days (supplier analysis)
+* supplier analysis 
+   *  objective: identify the best suppliers meeting the criteria
+   *  methodology
+      *  pricing/profitability analysis: pricing, profitability, technology
+         * technology/innovation, pricing -> gross margin
+         * profitability -> net margin
+         * ideal suppliers: lower pricing but still very profitability
+         * deceiving suppliers: lower pricing but barely profitability
+      *  financial health analysis: short/long-term liabilities and risks
+         *  ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/5dae2cf5-2588-4cc1-badb-8f13b32261d0)
+      *  efficiency analysis: cost efficiency, flexibility, responsiveness
+         * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/fcfffb07-b635-4a34-8685-19c01ffa62d9)
+  
+
+#### Week4: 
+![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/7daa63cb-04ea-4975-af1b-a904f3ba2e0b)
 
 
 
