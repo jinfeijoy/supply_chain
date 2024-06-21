@@ -28,23 +28,23 @@
       * About 12% for maintenance
       * About 17% for aircraft and traffic servicing
 * intermodal and express delivery
-      * intermodal: containers on a train + truck
-      * express delivery
-      * Rail is the cheapest and reasonably fast over long distances
-      * Motor is fast for short distances and can pickup and deliver everywhere
-      * Air is fastest and cost is justified for certain items.
+     * intermodal: containers on a train + truck
+     * express delivery
+     * Rail is the cheapest and reasonably fast over long distances
+     * Motor is fast for short distances and can pickup and deliver everywhere
+     * Air is fastest and cost is justified for certain items.
 ## Warehousing 
 * warehousing Management
-      * Purpose of warehousing setup: efficiencies / risk pooling / service
-      * function: movement / storage / information (about inventory)
-      * why to use warehouse: speed / quality / productivity
-      * [design a warehouse] (https://www.coursera.org/learn/supply-chain-logistics/supplement/IgLSe/warehousing-best-practices): shortest distance / quality & redundancy / throughput
+     * Purpose of warehousing setup: efficiencies / risk pooling / service
+     * function: movement / storage / information (about inventory)
+     * why to use warehouse: speed / quality / productivity
+     * [design a warehouse] (https://www.coursera.org/learn/supply-chain-logistics/supplement/IgLSe/warehousing-best-practices): shortest distance / quality & redundancy / throughput
 * inventory Management
-      * how much inventory
+     * how much inventory
           * cycle stock
           * safety stock
               * reason: logistic / demand are uncertain 
-      * when to order inventory
+     * when to order inventory
           * reorder point
           * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/1308d340-7a69-4063-b429-4718cb21e588)
           * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/72da8ac7-3dea-45d6-973c-69c9d98e0c7b)
