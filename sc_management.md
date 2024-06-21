@@ -2,16 +2,16 @@
 ## Transportation
 * motor freight:
  * advantage: speed / reliability / low damage / accessibility
- * truck connected by terminals:
-  * pickup/delivery terminal: from city truch to line-hall vehicle
-  * cross docks: connect networks of transportation together
-  * relay terminals: switch out the cab and put a trailer on a new cab
- * Cost Structure
-  * fuel 39% 
-  * driver salary 26%
-  * cab and trailer 17%
-  * maintenance 12% 
-  * insurance and fees 5%
+    * truck connected by terminals:
+        * pickup/delivery terminal: from city truch to line-hall vehicle
+        * cross docks: connect networks of transportation together
+        * relay terminals: switch out the cab and put a trailer on a new cab
+    * Cost Structure
+        * fuel 39% 
+        * driver salary 26%
+        * cab and trailer 17%
+        * maintenance 12% 
+        * insurance and fees 5%
 * air freight:
       * Cost Structure
             * Government support of highway structure: (70-90%)
