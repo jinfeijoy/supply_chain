@@ -13,20 +13,20 @@
         * maintenance 12% 
         * insurance and fees 5%
 * air freight:
-      * Cost Structure
-            * Government support of highway structure: (70-90%)
-            * Terminals not too capital intensive: (10-30%)
-      * Air Freight Service Characteristics
-            * Emergency shipments
-            * Typical commodities include mail, communications products, racehorses, etc.
-            * Speed of service considerations
-            * Speed, travel time advantage can be off-set by flight frequency and timing
-            * Smaller communities have experienced reduced frequencies
-            * In-direct routing due to hub and spoke networks
-      * High variable costs (about 60% of total, but can be as high as 80%)
-            * About 30% attributable to flight operations
-            * About 12% for maintenance
-            * About 17% for aircraft and traffic servicing
+   * Cost Structure
+         * Government support of highway structure: (70-90%)
+         * Terminals not too capital intensive: (10-30%)
+   * Air Freight Service Characteristics
+         * Emergency shipments
+         * Typical commodities include mail, communications products, racehorses, etc.
+         * Speed of service considerations
+         * Speed, travel time advantage can be off-set by flight frequency and timing
+         * Smaller communities have experienced reduced frequencies
+         * In-direct routing due to hub and spoke networks
+   * High variable costs (about 60% of total, but can be as high as 80%)
+         * About 30% attributable to flight operations
+         * About 12% for maintenance
+         * About 17% for aircraft and traffic servicing
 * intermodal and express delivery
       * intermodal: containers on a train + truck
       * express delivery
