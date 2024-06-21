@@ -48,7 +48,12 @@
           * reorder point
           * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/1308d340-7a69-4063-b429-4718cb21e588)
           * ![image](https://github.com/jinfeijoy/supply_chain/assets/16402963/72da8ac7-3dea-45d6-973c-69c9d98e0c7b)
-
+## Logistics Network Design
+* how many and where
+* factors influencing logistics networks: cost vs service (tradeoff)
+     * interest high -> cost of inventory goes up, fewer warehouse 
+     * fule high -> transportation expensive, more warehouse  
+* striving for logistics customer service: the overall goal of logistics is to deliver the right product, at the right price, to the right customer, at the right place, at the right time, in the right quantity, in the right condition. 
 
 
 # Course 2: Supply Chain Operations
