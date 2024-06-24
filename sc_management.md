@@ -65,7 +65,14 @@
    * Number 3, you want to make that value flow. In other words, you discontinue all activities that do not add value, and accelerate the activities that do add value.
    * Fourth, you want to pull back from the customer. And that is a very important idea. Rather than producing and hoping that your customer will buy the product, ie pushing the product onto the customer, you want to wait for the customer to ask for a product and then you start producing it.
    * And finally, you want to strive for perfection and eliminate all defects.
-
+## Six sigma
+* define: background and goals, scope, project milestonrs, budget
+* measure
+* analyze
+   * equipment, process, people, materials, environment, management
+   * 5S: sort, set in order, shine, standardize, sustain
+* improve
+* control 
 # Course 3: Supply Chain Planning
 
 # Course 4: Supply Chain Sourcing
