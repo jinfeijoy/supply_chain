@@ -57,6 +57,14 @@
 
 
 # Course 2: Supply Chain Operations
+## goal of operation
+* goal of operation: cost, speed, quality, flexibility
+* lean operation
+   * Number 1, you want to specify value from the customer's perspective.
+   * Number 2, you look at your whole supply chain and you map out where that value is created. You create a value stream map.
+   * Number 3, you want to make that value flow. In other words, you discontinue all activities that do not add value, and accelerate the activities that do add value.
+   * Fourth, you want to pull back from the customer. And that is a very important idea. Rather than producing and hoping that your customer will buy the product, ie pushing the product onto the customer, you want to wait for the customer to ask for a product and then you start producing it.
+   * And finally, you want to strive for perfection and eliminate all defects.
 
 # Course 3: Supply Chain Planning
 
