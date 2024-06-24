@@ -70,8 +70,8 @@
 * measure
 * analyze
    * equipment, process, people, materials, environment, management
-   * 5S: sort, set in order, shine, standardize, sustain
 * improve
+   * 5S: sort, set in order, shine, standardize, sustain
 * control 
 # Course 3: Supply Chain Planning
 
