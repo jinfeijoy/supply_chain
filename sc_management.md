@@ -74,6 +74,10 @@
    * 5S: sort, set in order, shine, standardize, sustain
 * control 
 # Course 3: Supply Chain Planning
+* sales plan
+* manufacturer plan
+* distribution plan
+* supply plan
 
 # Course 4: Supply Chain Sourcing
 
