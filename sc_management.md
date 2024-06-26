@@ -80,5 +80,18 @@
 * supply plan
 
 # Course 4: Supply Chain Sourcing
-
+### purchasing
+* process purchase orders
+* receiving and monitoring advance shipment notice
+* confirming receipt of goods
+* processing invoice
+* paying suppliers
+### procurement 
+* price
+* quality
+* service
+* risk: sustainability, social aspect, diversity supplier, minorities on business, women on business, economic
+   * service level have to not fluctuate very much
+   * catastrophic event
+   * protect yourself against suppliers going out of business
 # Course 5: Supply Chain Management Strategy 
