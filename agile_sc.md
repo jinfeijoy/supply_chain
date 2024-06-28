@@ -49,6 +49,10 @@
     * Increased supplier cost: Companies typically have at least two suppliers for the same item. The primary supplier will be the cheapest, and the second supplier may have a higher cost and only be used as a backup. The cost difference between the two can be considered an underage cost.
 * The newsvendor model is often used to determine inventory levels for single-period, perishable items. (Seasonal items， Airline/concert tickets and hotel rooms）
 
-
+# Week3 supply chain optimization 
+* monte carlo example
+    * Make vs. Buy Decision: Organizations typically decide whether to make a product in-house or through a supplier. Assuming we do not need to worry about intellectual property rights (usually a significant part of the decision process excluded to simplify our discussion here), we need to worry about the cost of making it in-house vs. outsourced. We know that cost and demand can vary over time and will have variations. A Monte Carlo simulation is a great way to simulate a range of cost and demand based on probability distributions. Once we can simulate this with all the possible outcomes, we are in a better position to make a sound decision.
+    * Determine Safety Stock Value: In Course 2, we learned how to compute safety stock by considering service level. The assumption behind that approach is that demand follows a normal distribution. With this assumption, we can integrate a Monte Carlo simulation into our analysis by building a model to simulate the variability and a cyclic production schedule.
+    * Determine the Warehouse Location: Warehouse location is typically determined by analyzing demand and supply origins. The objective is to pick a location that best serves the customers while minimizing cost. Since variability exists in both demand and supply, a Monte Carlo simulation is ideally suited to model the variability through probability distributions. The outcome, coupled with a network analysis method (e.g., center of gravity), can significantly improve the chance of choosing a location that meets the objective (minimizing cost while providing excellent service).
 
 
