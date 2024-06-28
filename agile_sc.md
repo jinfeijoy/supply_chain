@@ -11,7 +11,10 @@
 * The other crucial activity in the supply planning process is to ensure raw materials and semi-finished components are available to make the required quantity by the timeframe specified in the approved demand plan. Internally, the supply planner may work directly with the material suppliers or go through a materials coordinator to confirm material availability. Supply planning needs to work with external manufacturers' contacts to confirm material availability.
 ## constrained forecast 
 * As the name indicates, the constrained forecast is a more realistic demand goal that the company as a whole can achieve. The idea is that demand can only be met when resources and capacity are available. 
-
+## measurement 
+* MAD: mean absolute deviation
+* MSE: mean square error
+* MAPE: mean absolute percentage error
 # week2: inventory management 
 ## steady state demand: no demand variability
 * Steady-state demand, as the name implies, is a situation without variability. Demand is constant and predictable (with/without lead time)
