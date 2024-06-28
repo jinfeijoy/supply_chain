@@ -32,6 +32,7 @@
     * Shorten lead times: The shorter the lead time to get raw materials into final products and onto retail shelves, the quicker the supply chain can respond to market changes. For example, if a supply chain lead time can be reduced from 30 to 5 days, there can be a quicker recovery from stockouts. Stockouts can also be avoided altogether if a surge in demand is detected early and a replenishment order is placed soon after.
     * Hold optimal safety stock: Holding optimal safety stock is like buying insurance for any unexpected events. The purpose of safety stock is to provide a cushion against unforeseen circumstances. The amount of safety stock to hold varies and needs to be reviewed and adjusted periodically due to changes in demand, variability in the system, and other factors.
 ## inventory as a strategical tool to meet customer service level
+## newsvendor model (one-period decision model)
 * The standard newsvendor model is concerned with the amount of inventory to carry that would minimize understocking and overstocking costs.
 * Overage costs are relatively simple to determine and consist of some standard components:
     * Salvage value: This is the amount of money one can reclaim at the end of the selling season. For example, retailers often mark down the price of day-old bread. Salvage value is the difference between the marked-down price and the retailer's price.
@@ -43,4 +44,6 @@
     * Increased supplier cost: Companies typically have at least two suppliers for the same item. The primary supplier will be the cheapest, and the second supplier may have a higher cost and only be used as a backup. The cost difference between the two can be considered an underage cost.
 * The newsvendor model is often used to determine inventory levels for single-period, perishable items. (Seasonal items， Airline/concert tickets and hotel rooms）
 
-## newsvendor model (one-period decision model)
+
+
+
