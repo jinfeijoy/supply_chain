@@ -34,6 +34,8 @@
     * Increase available information: The more information we have, the better we can assess the impact at a broader level. Suppose we have information about consumer sentiment regarding pandemics. We may be able to shorten the required lead time to respond to the abrupt increase in demand for certain consumable goods. This information can influence our demand planning analysis.
     * Shorten lead times: The shorter the lead time to get raw materials into final products and onto retail shelves, the quicker the supply chain can respond to market changes. For example, if a supply chain lead time can be reduced from 30 to 5 days, there can be a quicker recovery from stockouts. Stockouts can also be avoided altogether if a surge in demand is detected early and a replenishment order is placed soon after.
     * Hold optimal safety stock: Holding optimal safety stock is like buying insurance for any unexpected events. The purpose of safety stock is to provide a cushion against unforeseen circumstances. The amount of safety stock to hold varies and needs to be reviewed and adjusted periodically due to changes in demand, variability in the system, and other factors.
+* reorder point and safety stock
+
 ## inventory as a strategical tool to meet customer service level
 ## newsvendor model (one-period decision model)
 * The standard newsvendor model is concerned with the amount of inventory to carry that would minimize understocking and overstocking costs.
