@@ -23,7 +23,7 @@
         * Freight lead time (ocean or air)
         * Custom and processing lead time at the ports
         * Last-mile delivery lead time
-
+* reorder time need to consider lead time
 ## inventory management with demand variability
 * source of variability
     * Transportation disruption due to weather or political events
