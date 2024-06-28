@@ -32,5 +32,13 @@
     * Shorten lead times: The shorter the lead time to get raw materials into final products and onto retail shelves, the quicker the supply chain can respond to market changes. For example, if a supply chain lead time can be reduced from 30 to 5 days, there can be a quicker recovery from stockouts. Stockouts can also be avoided altogether if a surge in demand is detected early and a replenishment order is placed soon after.
     * Hold optimal safety stock: Holding optimal safety stock is like buying insurance for any unexpected events. The purpose of safety stock is to provide a cushion against unforeseen circumstances. The amount of safety stock to hold varies and needs to be reviewed and adjusted periodically due to changes in demand, variability in the system, and other factors.
 ## inventory as a strategical tool to meet customer service level
-
+* The standard newsvendor model is concerned with the amount of inventory to carry that would minimize understocking and overstocking costs.
+* Overage costs are relatively simple to determine and consist of some standard components:
+    * Salvage value: This is the amount of money one can reclaim at the end of the selling season. For example, retailers often mark down the price of day-old bread. Salvage value is the difference between the marked-down price and the retailer's price.
+    * Inventory holding cost: This cost is associated with warehousing the inventory and is the cost of warehouse space (e.g., the lease) and the overhead to operate the area. It is usually estimated based on price per pallet or square foot.
+    * Opportunity cost of capital: This is the amount of money that can be invested instead. For example, $10k in cash can be used to purchase inventory or can be put into an interest bearing account at a bank. The interest earned in this case can be the opportunity cost of using this money to purchase inventory. 
+* estimating the underage cost can be trickier.
+    * Goodwill cost: This is the cost of turning a customer away. This damages the company's reputation as the customer might get upset or frustrated and may think twice before placing another order in the future.
+    * Expedite fees: This is the fee paid to have products available sooner. These fees can be paid to the logistic company for faster shipping or to the manufacturer to adjust their production schedule.
+    * Increased supplier cost: Companies typically have at least two suppliers for the same item. The primary supplier will be the cheapest, and the second supplier may have a higher cost and only be used as a backup. The cost difference between the two can be considered an underage cost.
 ## newsvendor model (one-period decision model)
