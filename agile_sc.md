@@ -41,4 +41,6 @@
     * Goodwill cost: This is the cost of turning a customer away. This damages the company's reputation as the customer might get upset or frustrated and may think twice before placing another order in the future.
     * Expedite fees: This is the fee paid to have products available sooner. These fees can be paid to the logistic company for faster shipping or to the manufacturer to adjust their production schedule.
     * Increased supplier cost: Companies typically have at least two suppliers for the same item. The primary supplier will be the cheapest, and the second supplier may have a higher cost and only be used as a backup. The cost difference between the two can be considered an underage cost.
+* The newsvendor model is often used to determine inventory levels for single-period, perishable items. (Seasonal items， Airline/concert tickets and hotel rooms）
+
 ## newsvendor model (one-period decision model)
