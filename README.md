@@ -20,4 +20,4 @@
 
 ## KG
 * https://github.com/grandintegrator/Link-Prediction-Supply-Chains
-
+* https://github.com/CIOL-SUST/SupplyGraph
