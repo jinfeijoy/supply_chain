@@ -16,3 +16,8 @@
 ## Medium 
 * [Using MLflow to deploy Graph Neural Networks for Monitoring Supply Chain Risk](https://medium.com/@ajmal.t.aziz/using-mlflow-to-deploy-graph-neural-networks-for-monitoring-supply-chain-risk-644c87e5259e)
 * [auto encoder](https://www.jeremyjordan.me/autoencoders/)
+
+
+## KG
+* https://github.com/grandintegrator/Link-Prediction-Supply-Chains
+
