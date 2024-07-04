@@ -24,6 +24,9 @@
 * https://neo4j.com/developer-blog/supply-chain-neo4j-gds-bloom/
 * https://datasetsearch.research.google.com/search?query=supply+chain%27+-site:kaggle.com
 * https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
+* https://catalog.data.gov/dataset?tags=supply-chain
+* https://datarade.ai/data-categories/supply-chain-data/datasets
+
 
 
 
