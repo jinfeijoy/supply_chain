@@ -26,7 +26,7 @@
 * https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
 * https://catalog.data.gov/dataset?tags=supply-chain
 * https://datarade.ai/data-categories/supply-chain-data/datasets
-
+* https://or.stackexchange.com/questions/529/supply-chain-public-data-repository
 
 
 
