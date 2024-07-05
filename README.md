@@ -20,14 +20,20 @@
 
 
 ## KG
-* https://github.com/grandintegrator/Link-Prediction-Supply-Chains
-* https://github.com/CIOL-SUST/SupplyGraph
-* https://neo4j.com/developer-blog/supply-chain-neo4j-gds-bloom/
-* https://datasetsearch.research.google.com/search?query=supply+chain%27+-site:kaggle.com
-* https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
-* https://catalog.data.gov/dataset?tags=supply-chain
-* https://datarade.ai/data-categories/supply-chain-data/datasets
-* https://or.stackexchange.com/questions/529/supply-chain-public-data-repository
+* [Link Prediction in Supply Chain Networks](https://github.com/grandintegrator/Link-Prediction-Supply-Chains): good for graph kg, may missing data. worth to explore code
+* [SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks](https://github.com/CIOL-SUST/SupplyGraph) : with data no code, [paper link](https://arxiv.org/html/2401.15299v1). can explore how to use this data to do eda and create graph
+* [Graph Data Science for Supply Chains – Part 1: Getting Started with Neo4j GDS and Bloom](https://neo4j.com/developer-blog/supply-chain-neo4j-gds-bloom/)
+* [kaggle logistic data](https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data)
+* [supply chain data1](https://datasetsearch.research.google.com/search?query=supply+chain%27+-site:kaggle.com)
+   * [logistic](https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679)
+   * [structure&unstructure](https://b2find.dkrz.de/dataset/1da02611-654c-561e-9b16-410d7010c288)
+   * [agri-food](https://b2find.dkrz.de/dataset/9c207995-d995-52cf-b812-9faf0c0c7044)
+* [supply chain data2](https://catalog.data.gov/dataset?tags=supply-chain)
+   * [USAID Global Health Supply Chain Program](https://catalog.data.gov/dataset/usaid-global-health-supply-chain-program-procurement-and-supply-management-ghsc-psm-health) **
+   * [USAID GHSC-PSM Health Commodity Delivery Dataset](https://catalog.data.gov/dataset/usaid-ghsc-psm-health-commodity-delivery-dataset)
+   * [A Web Platform for Graph-Based Modeling and Optimization of Supply Chains](https://catalog.data.gov/dataset/datasets-for-manuscript-adam-a-web-platform-for-graph-based-modeling-and-optimization-of-s)
+* [supply chain data3](https://datarade.ai/data-categories/supply-chain-data/datasets) (data trade for fee)
+* [supply chain data4](https://or.stackexchange.com/questions/529/supply-chain-public-data-repository)
 
 
 
