@@ -20,7 +20,7 @@
 
 
 ## KG
-* [Link Prediction in Supply Chain Networks](https://github.com/grandintegrator/Link-Prediction-Supply-Chains): good for graph kg, may missing data. worth to explore code
+* [Link Prediction in Supply Chain Networks](https://github.com/grandintegrator/Link-Prediction-Supply-Chains): good for graph kg, may missing data. worth to explore code [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2107.10609)
 * [SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks](https://github.com/CIOL-SUST/SupplyGraph) : with data no code, [paper link](https://arxiv.org/html/2401.15299v1). can explore how to use this data to do eda and create graph
 * [Graph Data Science for Supply Chains – Part 1: Getting Started with Neo4j GDS and Bloom](https://neo4j.com/developer-blog/supply-chain-neo4j-gds-bloom/)
 * [kaggle logistic data](https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data)
