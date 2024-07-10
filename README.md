@@ -36,6 +36,12 @@
 * [supply chain data4](https://or.stackexchange.com/questions/529/supply-chain-public-data-repository)
 
 
+## graph use case
+* manufacture / category : centrality 
+* manufacture / vendor : similarity / community or clustering
+* NER
+* logistic : path analytics 
+* create multi-dg kg 
 
 
 
